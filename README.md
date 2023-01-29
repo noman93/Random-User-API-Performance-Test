@@ -3,7 +3,7 @@
 - Clone the project
 - Copy RandomApi.jmx file to Jmeter bin Folder
 - In Jmeter bin folder open command promt
-- In command promt run this command jmeter -n -t .\RandomApi.jmx -l -e -o Reports
+- In command promt run this command jmeter -n -t .\RandomApi.jmx -l api_reports.csv -e -o Reports
 
 ## Technology Used
 - Jmeter
